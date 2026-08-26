@@ -1,18 +1,19 @@
 ## 👋 Ryo
 
-Computer Science 学生 / プロダクト開発
+**Computer Science 学生 / プロダクト開発**
+
 使う人がどこで迷うかを見つけて、その手間を減らすものを作っています。
 
 ### ✨ 作っているもの
 
-- 🏋️ **[Gymgrind](https://ryo-n-dayo.github.io/Gymgrind/)** — 記録の手間を減らす iOS トレーニングアプリ
+- 🏋️ **[Gymgrind](https://ryo-n-dayo.github.io/Gymgrind/)** — 記録の手間を減らす iOS トレーニングアプリ<br>
   重量・回数・休憩を素早く記録。履歴カレンダー、成長グラフ、Live Activity のレストタイマー。記録は端末内に保存
   `Swift` `SwiftUI` `SwiftData` `HealthKit`
-- 🎯 **[Career Radar](https://github.com/ryo-n-dayo/Career_Radar)** — 就職活動の情報を 1 画面にまとめる Web アプリ
-  締切の可視化、企業比較、AI 要約、Google カレンダー連携
+- 🎯 **[Career Radar](https://github.com/ryo-n-dayo/Career_Radar)** — 就職活動の情報を 1 画面にまとめる Web アプリ<br>
+  締切の可視化、企業比較、AI 要約、Google カレンダー連携<br>
   `TypeScript` `Next.js` `React` `Prisma`
-- 📇 **[れんらくさき](https://github.com/ryo-n-dayo/IOSapp)** — 高齢者向け iOS コミュニケーションアプリ（チーム開発 / 1 日）
-  機能を「電話」と「トーク」に絞った UI と、端末を近づけるだけの連絡先交換
+- 📇 **[れんらくさき](https://github.com/ryo-n-dayo/IOSapp)** — 高齢者向け iOS コミュニケーションアプリ（チーム開発 / 1 日）<br>
+  機能を「電話」と「トーク」に絞った UI と、端末を近づけるだけの連絡先交換<br>
   `Swift` `SwiftUI` `MultipeerConnectivity`
 
 ### 🏆 受賞
@@ -28,13 +29,15 @@ Computer Science 学生 / プロダクト開発
 
 ### 🧰 使う技術
 
-`Swift` `TypeScript` `JavaScript` `Java` `C++`
-`SwiftUI` `React` `Next.js` `Tailwind CSS`
-`Cyber Security` `Network` `OS` `Database` `DSA`
+**言語** `Swift` `TypeScript` `JavaScript` `Java` `C++`
+
+**フロント** `SwiftUI` `React` `Next.js` `Tailwind CSS`
+
+**基礎** `Cyber Security` `Network` `OS` `Database` `DSA`
 
 ### 🗣 言語
 
-| | |
+| 言語 | レベル |
 |---|---|
 | 日本語 | ネイティブ |
 | 英語 | ビジネスレベル |
@@ -51,6 +54,7 @@ Computer Science 学生 / プロダクト開発
 <br>
 
 **Computer Science Student / Product Builder**
+
 I build things that remove the steps where people get stuck.
 
 **Projects**
