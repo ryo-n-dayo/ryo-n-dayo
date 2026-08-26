@@ -7,7 +7,7 @@
 ### ✨ 作っているもの
 
 - 🏋️ **[Gymgrind](https://ryo-n-dayo.github.io/Gymgrind/)** — 記録の手間を減らす iOS トレーニングアプリ<br>
-  重量・回数・休憩を素早く記録。履歴カレンダー、成長グラフ、Live Activity のレストタイマー。記録は端末内に保存
+  重量・回数・休憩を素早く記録。履歴カレンダー、成長グラフ、Live Activity のレストタイマー。記録は端末内に保存<br>
   `Swift` `SwiftUI` `SwiftData` `HealthKit`
 - 🎯 **[Career Radar](https://github.com/ryo-n-dayo/Career_Radar)** — 就職活動の情報を 1 画面にまとめる Web アプリ<br>
   締切の可視化、企業比較、AI 要約、Google カレンダー連携<br>
