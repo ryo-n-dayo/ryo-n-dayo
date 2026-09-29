@@ -6,7 +6,7 @@
 
 ### ✨ 作っているもの
 
-- 🏋️ **[Gymgrind](https://ryo-n-dayo.github.io/Gymgrind/)** — 記録の手間を減らす iOS トレーニングアプリ<br>
+- 🏋️ **[Gymgrind](https://gymgrind.vercel.app)** — 記録の手間を減らす iOS トレーニングアプリ<br>
   重量・回数・休憩を素早く記録。履歴カレンダー、成長グラフ、Live Activity のレストタイマー。記録は端末内に保存<br>
   `Swift` `SwiftUI` `SwiftData` `HealthKit`
 - 🎯 **[Career Radar](https://github.com/ryo-n-dayo/Career_Radar)** — 就職活動の情報を 1 画面にまとめる Web アプリ<br>
@@ -44,7 +44,7 @@
 
 ### 🔗 リンク
 
-[ポートフォリオ](https://ryo-n-dayo.github.io/)
+[ポートフォリオ](https://myhomepage-neon.vercel.app)
 
 ---
 
@@ -59,7 +59,7 @@ I build things that remove the steps where people get stuck.
 
 **Projects**
 
-- 🏋️ **[Gymgrind](https://ryo-n-dayo.github.io/Gymgrind/)** — an iOS training app for quickly logging weights, reps, and rest. History calendar, progress charts, and a Live Activity rest timer. Data stays on the device. `Swift` `SwiftUI` `SwiftData` `HealthKit`
+- 🏋️ **[Gymgrind](https://gymgrind.vercel.app/en)** — an iOS training app for quickly logging weights, reps, and rest. History calendar, progress charts, and a Live Activity rest timer. Data stays on the device. `Swift` `SwiftUI` `SwiftData` `HealthKit`
 - 🎯 **[Career Radar](https://github.com/ryo-n-dayo/Career_Radar)** — a web app that keeps job-hunting information in one screen: deadlines, company comparison, AI summaries, and Google Calendar sync. `TypeScript` `Next.js` `React` `Prisma`
 - 📇 **[Renrakusaki](https://github.com/ryo-n-dayo/IOSapp)** — an iOS communication app for older users, built with a team in one day. A pared-down UI and contact exchange by holding two devices close together. `Swift` `SwiftUI` `MultipeerConnectivity`
 
@@ -74,6 +74,6 @@ I build things that remove the steps where people get stuck.
 
 **Languages** — Japanese: Native / English: Business level
 
-[Portfolio](https://ryo-n-dayo.github.io/)
+[Portfolio](https://myhomepage-neon.vercel.app)
 
 </details>
