@@ -7,7 +7,7 @@
 ### ✨ 作っているもの
 
 - 🏋️ **[Gymgrind](https://gymgrind.vercel.app)** — 記録の手間を減らす iOS トレーニングアプリ<br>
-  重量・回数・休憩を素早く記録。質問への回答から研究にもとづくメニュー・目標・食事のめやすを作成、セットごとの休憩の記録と分析、他アプリの記録の取り込み、ロック画面・Siri からの休憩開始、3D 筋肉モデル、ウィジェット。記録は端末内に保存<br>
+  重量・回数を素早く記録、有酸素は時間で記録。質問への回答から研究にもとづくメニュー・目標・食事のめやすを作成、他アプリの記録の取り込み、ロック画面・Siri からの休憩開始と休憩終了からの時間表示、器具のラベルと絞り込み、3D 筋肉モデルとマシンの動き、ウィジェット。記録は端末内に保存<br>
   `Swift` `SwiftUI` `SwiftData` `WidgetKit` `ActivityKit` `App Intents` `Foundation Models` `HealthKit`
 - 🎯 **[Career Radar](https://github.com/ryo-n-dayo/Career_Radar)** — 就職活動の情報を 1 画面にまとめる Web アプリ<br>
   締切の可視化、企業比較、AI 要約、Google カレンダー連携<br>
@@ -59,7 +59,7 @@ I build things that remove the steps where people get stuck.
 
 **Projects**
 
-- 🏋️ **[Gymgrind](https://gymgrind.vercel.app/en)** — an iOS training app for quickly logging weights, reps, and rest. Builds a research-based plan, goals, and nutrition guide from a few questions, tracks and analyzes rest set by set, imports records from other apps, starts rests from the Lock Screen or Siri, and shows the muscles each exercise works on a 3D model. Data stays on the device. `Swift` `SwiftUI` `SwiftData` `WidgetKit` `ActivityKit` `App Intents` `Foundation Models` `HealthKit`
+- 🏋️ **[Gymgrind](https://gymgrind.vercel.app/en)** — an iOS training app for quickly logging weights and reps, with cardio logged by time. Builds a research-based plan, goals, and nutrition guide from a few questions, imports records from other apps, starts rests from the Lock Screen or Siri and keeps counting once a rest ends, labels and filters exercises by equipment, and shows the muscles each exercise works on a 3D model, with machine exercises in motion. Data stays on the device. `Swift` `SwiftUI` `SwiftData` `WidgetKit` `ActivityKit` `App Intents` `Foundation Models` `HealthKit`
 - 🎯 **[Career Radar](https://github.com/ryo-n-dayo/Career_Radar)** — a web app that keeps job-hunting information in one screen: deadlines, company comparison, AI summaries, and Google Calendar sync. `TypeScript` `Next.js` `React` `Prisma`
 - 📇 **[Renrakusaki](https://github.com/ryo-n-dayo/IOSapp)** — an iOS communication app for older users, built with a team in one day. A pared-down UI and contact exchange by holding two devices close together. `Swift` `SwiftUI` `MultipeerConnectivity`
 
